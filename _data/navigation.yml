@@ -1,11 +1,21 @@
 # Site navigation links
 
-- title: Our Community
+- title: Home
   url: /
   excerpt:
   image:
 
-- title: Our Collection
+- title: Exhibit
   url: /collection
+  excerpt:
+  image:
+
+- title: Research
+  url: /research
+  excerpt:
+  image:
+
+- title: Dr. C's Stories
+  url: /stories
   excerpt:
   image:
