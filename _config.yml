@@ -46,14 +46,14 @@ repository: 'drcjfletcher/mygrannystable2.github.io' # change this to your repos
 title: "Charlene J. Fletcher, Ph.D."
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: ""
+subtitle: "Historian. Writer. Educator."
 
 # A longer description of your site (max 150 words). Helps search engines find you.
 description: ""
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: ""
+author: "Charlene J. Fletcher, Ph.D."
 authorname : ""
 
 # To change the photo on your homepage, open the assets folder in your Github repo, then open the img folder. Upload a photo there. Add only the name of the photo and its extension here. E.g. "alternate_logo.png")
